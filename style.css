@@ -1126,25 +1126,59 @@ mark {
   .plant-card-img-wrap { height: 110px; }
 }
 
-/* Promo Banner */
-.promo-banner {
-  background: var(--navy);
-  color: var(--white);
-  text-align: center;
-  padding: 14px 24px;
-  font-size: 14px;
-  line-height: 1.5;
+
+/* Upsell Modal */
+.upsell-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  padding: 24px;
 }
-.promo-banner p { margin-bottom: 8px; }
-.promo-btn {
+.upsell-overlay[hidden] { display: none; }
+.upsell-modal {
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 32px 28px;
+  max-width: 360px;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 12px 40px rgba(0,0,0,.2);
+}
+.upsell-close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: var(--gray-500);
+}
+.upsell-modal h3 {
+  font-size: 20px;
+  margin-bottom: 12px;
+  color: var(--navy);
+}
+.upsell-modal p {
+  font-size: 15px;
+  color: var(--gray-600);
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+.upsell-btn {
   display: inline-block;
   background: var(--turquoise);
   color: var(--white);
   text-decoration: none;
-  padding: 8px 20px;
-  border-radius: 6px;
+  padding: 12px 28px;
+  border-radius: 8px;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 15px;
   transition: background .2s;
 }
-.promo-btn:hover { background: var(--turquoise-dark); }
+.upsell-btn:hover { background: var(--turquoise-dark); }

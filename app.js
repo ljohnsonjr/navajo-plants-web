@@ -379,15 +379,10 @@
       $navajo.textContent = "No Diné name recorded";
       $navajo.className = "detail-navajo detail-navajo-missing";
     }
-    if (AUDIO_FILES[p.english_name]) {
+    if (p.navajo_name) {
       $audioBtn.hidden = false;
       $audioBtn.onclick = function() {
-        if (currentAudio) { currentAudio.pause(); currentAudio = null; }
-        currentAudio = new Audio(AUDIO_FILES[p.english_name]);
-        $audioBtn.classList.add("playing");
-        currentAudio.play();
-        currentAudio.onended = function() { $audioBtn.classList.remove("playing"); currentAudio = null; };
-        currentAudio.onerror = function() { $audioBtn.classList.remove("playing"); currentAudio = null; };
+        showUpsell();
       };
     } else {
       $audioBtn.hidden = true;
@@ -716,6 +711,18 @@
       }
     }
     $credits.innerHTML = lines.join("<br>");
+  }
+
+  // ===== UPSELL =====
+  var $upsell = document.getElementById("upsell-overlay");
+  $upsell.querySelector(".upsell-close").onclick = function() {
+    $upsell.hidden = true;
+  };
+  $upsell.addEventListener("click", function(e) {
+    if (e.target === $upsell) $upsell.hidden = true;
+  });
+  function showUpsell() {
+    $upsell.hidden = false;
   }
 
   // ===== INIT =====

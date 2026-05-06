@@ -41,8 +41,16 @@
   var $overlay = document.getElementById("detail-overlay");
 
   // ===== LOAD DATA =====
+  var SUPABASE_URL = "https://ajwmamcekxvssbvtibmp.supabase.co";
+  var SUPABASE_KEY = "sb_publishable_ygVFWOmBxHccgHnmPR1fZg_fM-X68Ol";
+
   function loadPlants() {
-    return fetch("plants.json")
+    return fetch(SUPABASE_URL + "/rest/v1/plants?select=*&order=english_name", {
+      headers: {
+        "apikey": SUPABASE_KEY,
+        "Authorization": "Bearer " + SUPABASE_KEY
+      }
+    })
       .then(function(res) {
         if (!res.ok) throw new Error("Failed: " + res.status);
         return res.json();

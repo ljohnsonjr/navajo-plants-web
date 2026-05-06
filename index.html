@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diné Ch'il — Navajo Plants</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Charis+SIL:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Open Graph / Link Preview -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Diné Ch'il — Navajo Plants">
+  <meta property="og:description" content="Explore Navajo plant names and learn about the plants found across the Navajo Nation.">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Diné Ch'il — Navajo Plants">
+  <meta name="twitter:description" content="Explore Navajo plant names and learn about the plants found across the Navajo Nation.">
+</head>
+<body>
+
+  <!-- Top Navigation -->
+  <nav class="top-nav">
+    <div class="nav-inner">
+      <a href="#" class="logo" data-nav="search">
+        <div class="nav-logo-icon">&#127793;</div>
+        <div class="nav-logo-text">
+          <span class="nav-logo-title">Diné Ch'il</span>
+          <span class="nav-logo-sub">NAVAJO PLANTS</span>
+        </div>
+      </a>
+      <div class="nav-links">
+        <a href="#" data-nav="search" class="active">Search</a>
+        <a href="#" data-nav="browse">Browse</a>
+        <a href="#" data-nav="about">About</a>
+      </div>
+      <button class="nav-hamburger" id="hamburger-btn" aria-label="Menu">
+        <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+      <div class="nav-mobile-menu" id="mobile-menu">
+        <a href="#" data-nav="search" class="active">Search</a>
+        <a href="#" data-nav="browse">Browse</a>
+        <a href="#" data-nav="about">About</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Southwest Diamond Pattern Strip -->
+  <div class="rug-strip" aria-hidden="true">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" preserveAspectRatio="none">
+      <defs>
+        <pattern id="rug-pattern" x="0" y="0" width="32" height="16" patternUnits="userSpaceOnUse">
+          <rect width="32" height="16" fill="#B7410E"/>
+          <polygon points="16,1.6 24,8 16,14.4 8,8" fill="#FDB813" stroke="none"/>
+          <polygon points="16,4 20.8,8 16,12 11.2,8" fill="#2C2C2C" stroke="none"/>
+          <polygon points="16,5.6 18.4,8 16,10.4 13.6,8" fill="#40E0D0" stroke="none"/>
+          <polygon points="0,4.8 3.2,8 0,11.2 -3.2,8" fill="#2C2C2C" stroke="none"/>
+          <polygon points="0,6.4 1.6,8 0,9.6 -1.6,8" fill="#FDB813" stroke="none"/>
+          <polygon points="32,4.8 35.2,8 32,11.2 28.8,8" fill="#2C2C2C" stroke="none"/>
+          <polygon points="32,6.4 33.6,8 32,9.6 30.4,8" fill="#FDB813" stroke="none"/>
+          <rect x="0" y="0" width="32" height="0.8" fill="#2C2C2C"/>
+          <rect x="0" y="15.2" width="32" height="0.8" fill="#2C2C2C"/>
+        </pattern>
+      </defs>
+      <rect width="100%" height="100%" fill="url(#rug-pattern)"/>
+    </svg>
+  </div>
+
+  <!-- App Promo Banner -->
+  <div class="promo-banner">
+    <p><strong>Free Preview</strong> — 50 plants shown. Get the full app with all 199 plants, native Diné audio pronunciations, and offline mode.</p>
+    <a href="#" class="promo-btn">Get the Full App</a>
+  </div>
+
+  <!-- HOME SECTION -->
+  <section id="section-search" class="section active">
+    <div class="content-wrap-wide">
+
+      <!-- Search bar -->
+      <div class="search-bar-wrap">
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
+          <input type="text" id="search-input" placeholder="Search by Navajo, English, or scientific name…" autocomplete="off" spellcheck="false">
+          <button id="clear-btn" class="clear-btn" aria-label="Clear search" hidden>&times;</button>
+        </div>
+        <div class="filter-row" id="filter-row">
+          <button class="filter-chip active" data-type="all">All</button>
+          <button class="filter-chip" data-type="Grass">Grass</button>
+          <button class="filter-chip" data-type="Shrub">Shrub</button>
+          <button class="filter-chip" data-type="Tree">Tree</button>
+          <button class="filter-chip" data-type="Forb">Forb</button>
+          <button class="filter-chip" data-type="Cactus">Cactus</button>
+          <button class="filter-chip" data-type="Grasslike">Grasslike</button>
+        </div>
+      </div>
+
+      <!-- Featured Plant of the Day -->
+      <div class="featured-hero" id="featured-card">
+        <div class="featured-img-wrap">
+          <img id="featured-img" class="featured-img" src="" alt="">
+        </div>
+        <div class="featured-info">
+          <span class="featured-label">Plant of the Day</span>
+          <h2 class="featured-navajo" id="featured-navajo"></h2>
+          <p class="featured-english" id="featured-english"></p>
+          <p class="featured-scientific" id="featured-scientific"></p>
+          <div class="featured-badges">
+            <span class="featured-type-badge" id="featured-type"></span>
+            <span class="featured-season-badge" id="featured-season"></span>
+          </div>
+          <p class="featured-desc" id="featured-desc"></p>
+        </div>
+        <button class="fav-btn" id="featured-fav" aria-label="Save to favorites">&#9825;</button>
+      </div>
+
+      <!-- Results count -->
+      <div id="results-header" class="results-header" hidden>
+        <span id="results-count"></span>
+      </div>
+
+      <!-- Plant card grid -->
+      <div class="plant-grid" id="plant-grid"></div>
+
+      <!-- Load more -->
+      <button id="load-more" class="load-more" hidden>Show more plants</button>
+
+    </div>
+  </section>
+
+  <!-- BROWSE SECTION -->
+  <section id="section-browse" class="section">
+    <div class="content-wrap">
+      <h2 class="section-heading">Browse by Plant Type</h2>
+      <div class="browse-type-grid" id="browse-type-grid"></div>
+      <div id="browse-results" class="results-area" hidden>
+        <h3 id="browse-type-heading" class="browse-type-heading"></h3>
+        <div id="browse-list" class="plant-grid"></div>
+        <button id="browse-more" class="load-more" hidden>Show more</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAVORITES SECTION -->
+  <section id="section-favorites" class="section">
+    <div class="content-wrap">
+      <h2 class="section-heading">Saved Plants</h2>
+      <p id="fav-empty" class="empty-msg">No favorites yet. Tap the heart on any plant to save it here.</p>
+      <div id="fav-list" class="plant-grid"></div>
+    </div>
+  </section>
+
+  <!-- DETAIL MODAL -->
+  <div class="detail-overlay" id="detail-overlay" hidden>
+    <div class="detail-modal">
+      <button class="detail-close" id="detail-close" aria-label="Close">&times;</button>
+      <div class="detail-gallery" id="detail-gallery">
+        <img class="detail-img" id="detail-img" src="" alt="">
+        <button class="gallery-btn gallery-prev" id="gallery-prev" aria-label="Previous photo">&#8249;</button>
+        <button class="gallery-btn gallery-next" id="gallery-next" aria-label="Next photo">&#8250;</button>
+        <div class="gallery-dots" id="gallery-dots"></div>
+        <div class="gallery-counter" id="gallery-counter"></div>
+        <div class="gallery-notice" id="gallery-notice"></div>
+      </div>
+      <div class="detail-header">
+        <span class="detail-type-badge" id="detail-type"></span>
+        <span class="detail-season" id="detail-season"></span>
+      </div>
+      <div class="detail-navajo-wrap">
+        <h2 class="detail-navajo" id="detail-navajo"></h2>
+        <button class="audio-btn" id="audio-btn" aria-label="Listen to pronunciation" hidden>
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
+        </button>
+      </div>
+      <h3 class="detail-english" id="detail-english"></h3>
+      <p class="detail-scientific" id="detail-scientific"></p>
+      <p class="detail-aka" id="detail-aka"></p>
+      <div class="detail-description" id="detail-description"></div>
+      <div class="detail-meta">
+        <div class="detail-meta-item" id="detail-habitat-row">
+          <span class="detail-meta-label">Habitat</span>
+          <span class="detail-meta-value" id="detail-habitat"></span>
+        </div>
+        <div class="detail-meta-item" id="detail-considerations-row">
+          <span class="detail-meta-label">Notes</span>
+          <span class="detail-meta-value" id="detail-considerations"></span>
+        </div>
+      </div>
+      <button class="detail-fav-btn" id="detail-fav">
+        <span id="detail-fav-icon">&#9825;</span> Save to Favorites
+      </button>
+    </div>
+  </div>
+
+  <!-- FULLSCREEN LIGHTBOX (desktop only) -->
+  <div class="lightbox-overlay" id="lightbox-overlay" hidden>
+    <button class="lightbox-close" id="lightbox-close" aria-label="Close fullscreen">&times;</button>
+    <div class="lightbox-content">
+      <button class="lightbox-nav lightbox-prev" id="lightbox-prev" aria-label="Previous photo">&#8249;</button>
+      <img class="lightbox-img" id="lightbox-img" src="" alt="">
+      <button class="lightbox-nav lightbox-next" id="lightbox-next" aria-label="Next photo">&#8250;</button>
+    </div>
+    <div class="lightbox-counter" id="lightbox-counter"></div>
+    <div class="lightbox-hint">Click anywhere or press Esc to close</div>
+  </div>
+
+  <!-- ABOUT SECTION -->
+  <section id="section-about" class="section">
+    <div class="content-wrap">
+      <div class="about-content">
+        <h2>About Diné Ch'il</h2>
+        <p>This free preview contains <strong>50 of 199 plants found across the Navajo Nation</strong>. Get the full app with all plants, audio pronunciations by a native Diné speaker, and offline support.</p>
+        <h3>How to Use</h3>
+        <ul>
+          <li><strong>Search</strong> — Type any Navajo, English, or scientific name. Filter by plant type using the chips below the search bar.</li>
+          <li><strong>Browse</strong> — Explore plants grouped by type: grasses, shrubs, trees, forbs, cacti, and grasslike plants.</li>
+          <li><strong>Details</strong> — Tap any plant to see its full information including habitat, growing season, and special notes.</li>
+          <li><strong>Favorites</strong> — Tap the heart icon to save plants for quick reference.</li>
+        </ul>
+        <h3>Data</h3>
+        <p>Plant data compiled for educational and cultural preservation purposes. Navajo names reflect traditional naming by Diné communities.</p>
+        <h3>Disclaimer</h3>
+        <p>This app is for <strong>educational and informational purposes only</strong>. It is not a field guide for identifying edible, medicinal, or toxic plants. Do not eat, touch, or use any plant based on information in this app. Plant identification requires expert knowledge — misidentification can result in serious injury or death.</p>
+        <p>Information about plant toxicity to livestock is provided as general awareness only and should not replace consultation with a veterinarian or range management professional. The creators of this app accept no liability for any harm, injury, loss, or damage resulting from the use of information presented here.</p>
+        <p>When in doubt, consult a qualified professional.</p>
+        <h3>Photo Credits</h3>
+        <p>Plant photographs are sourced from <a href="https://www.inaturalist.org" target="_blank" rel="noopener">iNaturalist</a> community observations, used under Creative Commons licenses (CC BY-NC). All photos remain the property of their original photographers.</p>
+        <div id="photo-credits" class="photo-credits"></div>
+        <p class="about-note">Diné Ch'il &bull; Built with respect for Diné botanical knowledge and culture.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-logo">Diné <span>Ch'il</span></div>
+    <p class="footer-tagline">Built with respect for Diné botanical knowledge and culture.</p>
+    <div class="footer-divider"></div>
+    <p class="footer-disclaimer">For educational purposes only. Not a guide for plant identification, consumption, or medical use. See <a href="#" data-nav="about">full disclaimer</a>.</p>
+  </footer>
+
+  <!-- Mobile bottom nav -->
+  <nav class="bottom-nav">
+    <button data-nav="search" class="active">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
+      <span>Search</span>
+    </button>
+    <button data-nav="browse">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
+      <span>Browse</span>
+    </button>
+    <button data-nav="favorites">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 21l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.18L12 21z"/></svg>
+      <span>Favorites</span>
+    </button>
+    <button data-nav="about">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+      <span>About</span>
+    </button>
+  </nav>
+
+  <script src="app.js"></script>
+</body>
+</html>

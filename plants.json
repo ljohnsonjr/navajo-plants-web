@@ -1,0 +1,1748 @@
+[
+  {
+    "english_name": "African rue",
+    "navajo_name": "",
+    "scientific_name": "Peganum harmala",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Noxious weed (BIA Category A — high priority for removal, not yet widespread); Highly toxic to livestock and humans",
+    "description": "Low-growing perennial with white flowers and round seed capsules, originally from Central Asia. Non-native and spreading across the Southwest. All parts are poisonous to sheep, cattle, and horses.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215513/medium.jpg",
+    "photo_attr": "(c) Ostenfuchs, some rights reserved (CC BY)",
+    "photo_license": "cc-by",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215513/medium.jpg",
+        "attr": "(c) Ostenfuchs, some rights reserved (CC BY)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215514/medium.jpg",
+        "attr": "(c) José María Escolano, some rights reserved (CC BY-NC-SA)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215515/medium.jpg",
+        "attr": "(c) Giorgio Samorini, some rights reserved (CC BY-NC-SA)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215516/medium.jpg",
+        "attr": "(c) copepodo, some rights reserved (CC BY-NC-ND)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215517/medium.jpg",
+        "attr": "(c) Marcel Holyoak, some rights reserved (CC BY-NC-ND)"
+      }
+    ]
+  },
+  {
+    "english_name": "Alder",
+    "navajo_name": "K’ish",
+    "scientific_name": "Alnus spp.",
+    "aka": "Arizona alder",
+    "plant_type": "Tree",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Good browse / Erosion control",
+    "description": "Found along streams and washes. Helps hold the banks together and prevent erosion. Provides shade and shelter for wildlife near water.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111091510/medium.jpg",
+    "photo_attr": "(c) kathy-115, some rights reserved (CC BY-NC)",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111091510/medium.jpg",
+        "attr": "(c) kathy-115, some rights reserved (CC BY-NC)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8417553/medium.jpg",
+        "attr": "(c) Donna Pomeroy, some rights reserved (CC BY-NC), uploaded by Donna Pomeroy"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/126439873/medium.jpeg",
+        "attr": "(c) ㅤ‌, some rights reserved (CC BY), uploaded by ㅤ‌"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183775378/medium.jpeg",
+        "attr": "(c) Gus Barksdale, some rights reserved (CC BY-NC-ND), uploaded by Gus Barksdale"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349136226/medium.jpg",
+        "attr": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman"
+      }
+    ]
+  },
+  {
+    "english_name": "Algerita",
+    "navajo_name": "Tsin łitsoi",
+    "scientific_name": "Berberis trifoliolata",
+    "aka": "Agarita, agrito, currant-of-Texas, wild currant",
+    "plant_type": "Shrub",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "Important browse / Wildlife food",
+    "description": "Evergreen shrub with yellow flowers and tart red berries. Deer and livestock will browse it. Good cover for wildlife.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14185444/medium.jpeg",
+    "photo_attr": "(c) Bryan, some rights reserved (CC BY-NC), uploaded by Bryan",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14185444/medium.jpeg",
+        "attr": "(c) Bryan, some rights reserved (CC BY-NC), uploaded by Bryan"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/864094/medium.jpg",
+        "attr": "(c) Jason Penney, all rights reserved"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3128117/medium.JPG",
+        "attr": "(c) Sam Kieschnick, some rights reserved (CC BY), uploaded by Sam Kieschnick"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53694907/medium.jpeg",
+        "attr": "(c) Linda Jo Conn, some rights reserved (CC BY-NC), uploaded by Linda Jo Conn"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5193966/medium.jpeg",
+        "attr": "(c) Kimberly Beal, some rights reserved (CC BY-NC), uploaded by Kimberly Beal"
+      }
+    ]
+  },
+  {
+    "english_name": "Antelope Bitterbrush",
+    "navajo_name": "Tsé k’i na’ałch’ízhii",
+    "scientific_name": "Purshia tridentata",
+    "aka": "Buckbrush, bitterbrush",
+    "plant_type": "Shrub",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Important winter browse",
+    "description": "Excellent winter browse — deer, elk, and livestock eat it readily, especially when snow covers the grass. One of the best forage shrubs on the range.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133190825/medium.jpeg",
+    "photo_attr": "(c) Jared Manninen, some rights reserved (CC BY-NC), uploaded by Jared Manninen",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133190825/medium.jpeg",
+        "attr": "(c) Jared Manninen, some rights reserved (CC BY-NC), uploaded by Jared Manninen"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/136134160/medium.jpg",
+        "attr": "(c) Tristan Semeniuk, all rights reserved, uploaded by Tristan Semeniuk"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/441675785/medium.jpeg",
+        "attr": "(c) Kevin Martin, some rights reserved (CC BY-NC), uploaded by Kevin Martin"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94550812/medium.jpeg",
+        "attr": "(c) Rhia Ironside, some rights reserved (CC BY-NC), uploaded by Rhia Ironside"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/134942519/medium.jpg",
+        "attr": "(c) jimtietz, all rights reserved"
+      }
+    ]
+  },
+  {
+    "english_name": "Antelopehorn",
+    "navajo_name": "Azee' łá' dilt'éhé",
+    "scientific_name": "Asclepias asperula",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Poisonous to livestock",
+    "description": "Milkweed family plant with greenish-cream flowers and curved horn-shaped seed pods that split open to release silky-tufted seeds. Attracts butterflies and pollinators. Contains compounds that are toxic to livestock.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65573998/medium.jpg",
+    "photo_attr": "(c) Russ Hoverman, some rights reserved (CC BY-NC), uploaded by Russ Hoverman",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65573998/medium.jpg",
+        "attr": "(c) Russ Hoverman, some rights reserved (CC BY-NC), uploaded by Russ Hoverman"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8793582/medium.jpg",
+        "attr": "(c) Lee Hoy, some rights reserved (CC BY-NC-ND), uploaded by Lee Hoy"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14899595/medium.jpeg",
+        "attr": "(c) Brent Franklin, some rights reserved (CC BY-NC), uploaded by Brent Franklin"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10269735/medium.jpeg",
+        "attr": "(c) Veronica Nguyen, some rights reserved (CC BY-NC), uploaded by Veronica Nguyen"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232701423/medium.jpg",
+        "attr": "(c) Andrey Zharkikh, some rights reserved (CC BY-NC), uploaded by Andrey Zharkikh"
+      }
+    ]
+  },
+  {
+    "english_name": "Arrowgrass",
+    "navajo_name": "Tł’oh k’aa’í",
+    "scientific_name": "Triglochin maritima",
+    "aka": "Seaside arrowgrass",
+    "plant_type": "Grasslike",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Poisonous",
+    "description": "Fleshy grasslike plant found in wet, marshy areas near springs and seeps. Grows in dense stands along waterways. Toxic to livestock, especially during drought.",
+    "photo_url": "https://static.inaturalist.org/photos/291571459/medium.jpg",
+    "photo_attr": "(c) Richard Kunz, all rights reserved, uploaded by Richard Kunz",
+    "photo_license": null,
+    "photos": [
+      {
+        "url": "https://static.inaturalist.org/photos/291571459/medium.jpg",
+        "attr": "(c) Richard Kunz, all rights reserved, uploaded by Richard Kunz"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71231302/medium.jpeg",
+        "attr": "(c) Ian Cruickshank, some rights reserved (CC BY-NC), uploaded by Ian Cruickshank"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600825721/medium.jpg",
+        "attr": "(c) Elora, some rights reserved (CC BY-NC), uploaded by Elora"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/381144276/medium.jpg",
+        "attr": "(c) Sebastian J. Dunkl, some rights reserved (CC BY-NC), uploaded by Sebastian J. Dunkl"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/381144454/medium.jpg",
+        "attr": "(c) Sebastian J. Dunkl, some rights reserved (CC BY-NC), uploaded by Sebastian J. Dunkl"
+      }
+    ]
+  },
+  {
+    "english_name": "Bald brome",
+    "navajo_name": "",
+    "scientific_name": "Bromus racemosus",
+    "aka": "",
+    "plant_type": "Grass",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Noxious weed (BIA Category C — widespread, managed to limit further impact)",
+    "description": "Non-native annual grass with drooping seedheads found along roadsides and open ground. One of several brome species on the reservation.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472714711/medium.jpeg",
+    "photo_attr": "(c) odenwaelder, some rights reserved (CC BY-NC), uploaded by odenwaelder",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472714711/medium.jpeg",
+        "attr": "(c) odenwaelder, some rights reserved (CC BY-NC), uploaded by odenwaelder"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289756244/medium.jpeg",
+        "attr": "(c) Patrick Hacker, some rights reserved (CC BY), uploaded by Patrick Hacker"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78276429/medium.jpg",
+        "attr": "(c) Peter, some rights reserved (CC BY-NC), uploaded by Peter"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18961388/medium.jpg",
+        "attr": "(c) ThePrairiePreacher, some rights reserved (CC BY-NC), uploaded by ThePrairiePreacher"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3952731/medium.jpg",
+        "attr": "(c) Corey Lange, some rights reserved (CC BY-NC), uploaded by Corey Lange"
+      }
+    ]
+  },
+  {
+    "english_name": "Beeplant Rocky Mountain",
+    "navajo_name": "Waa’",
+    "scientific_name": "Cleome serrulata",
+    "aka": "Rocky Mountain beeplant, Navajo spinach",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "Good forage / Pollinator plant",
+    "description": "Tall annual with pink-purple flowers that bees love. Important nectar source. Found across the reservation after summer rains.",
+    "photo_url": "https://static.inaturalist.org/photos/206644253/medium.jpg",
+    "photo_attr": "(c) Mike Duran, all rights reserved, uploaded by Mike Duran",
+    "photo_license": null,
+    "photos": [
+      {
+        "url": "https://static.inaturalist.org/photos/206644253/medium.jpg",
+        "attr": "(c) Mike Duran, all rights reserved, uploaded by Mike Duran"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/420596994/medium.jpeg",
+        "attr": "(c) Rozetta Locksa, some rights reserved (CC BY-NC), uploaded by Rozetta Locksa"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554357566/medium.jpg",
+        "attr": "(c) elle1701, some rights reserved (CC BY-NC)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/426040/medium.jpg",
+        "attr": "(c) Andy, some rights reserved (CC BY-NC-ND)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/426041/medium.jpg",
+        "attr": "(c) Razzu Engen, some rights reserved (CC BY-NC-SA)"
+      }
+    ]
+  },
+  {
+    "english_name": "Birdbeak",
+    "navajo_name": "Tsésnádáá'",
+    "scientific_name": "Cordylanthus wrightii",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Provides insect forage",
+    "description": "Small annual with purplish beak-shaped flowers that bloom in summer. An unusual plant — it lives partly off the roots of nearby plants. Feeds pollinators.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45643190/medium.jpg",
+    "photo_attr": "(c) Erica Fraley, some rights reserved (CC BY-NC), uploaded by Erica Fraley",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45643190/medium.jpg",
+        "attr": "(c) Erica Fraley, some rights reserved (CC BY-NC), uploaded by Erica Fraley"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2602946/medium.jpg",
+        "attr": "(c) Colin Barrows, some rights reserved (CC BY-NC)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5588831/medium.jpg",
+        "attr": "(c) BJ Stacey, some rights reserved (CC BY-NC), uploaded by BJ Stacey"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/151276469/medium.jpeg",
+        "attr": "(c) Ryan Bailey, all rights reserved, uploaded by Ryan Bailey"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76271148/medium.jpeg",
+        "attr": "(c) Ethan, some rights reserved (CC BY-NC), uploaded by Ethan"
+      }
+    ]
+  },
+  {
+    "english_name": "Biscuitroot",
+    "navajo_name": "Nímasiichilí",
+    "scientific_name": "Lomatium spp.",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Provides wildlife forage and habitat",
+    "description": "Yellow umbrella-shaped flowers in spring, with finely divided leaves close to the ground. Found in open meadows and hillsides. Part of the carrot family.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485353261/medium.jpg",
+    "photo_attr": "(c) Ella Coleman, some rights reserved (CC BY-NC), uploaded by Ella Coleman",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8867/medium.jpg",
+        "attr": "(c) James Gaither, some rights reserved (CC BY-NC-ND)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129403861/medium.jpg",
+        "attr": "(c) ookow, some rights reserved (CC BY-NC)"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/19072346/medium.jpg",
+        "attr": "(c) bio3850bach, all rights reserved, uploaded by bio3850bach"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116591969/medium.jpg",
+        "attr": "(c) plantgoddess42, some rights reserved (CC BY-NC), uploaded by plantgoddess42"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1887592/medium.jpg",
+        "attr": "(c) 2012 Gary A. Monroe, some rights reserved (CC BY-NC)"
+      }
+    ]
+  },
+  {
+    "english_name": "Bitter rubberweed",
+    "navajo_name": "Né'éshjaa' yilkee'é",
+    "scientific_name": "Hymenoxys odorata",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Not specified",
+    "special_considerations": "Toxic to livestock, especially sheep",
+    "description": "Low yellow-flowered plant found on open range, often in patches. Toxic to livestock, especially sheep. Important to recognize.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122669743/medium.jpeg",
+    "photo_attr": "(c) Annika Lindqvist, some rights reserved (CC BY), uploaded by Annika Lindqvist",
+    "photo_license": "cc-by",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122669743/medium.jpeg",
+        "attr": "(c) Annika Lindqvist, some rights reserved (CC BY), uploaded by Annika Lindqvist"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31669874/medium.jpeg",
+        "attr": "(c) Nathan Taylor, some rights reserved (CC BY-NC), uploaded by Nathan Taylor"
+      }
+    ]
+  },
+  {
+    "english_name": "Bitterweed",
+    "navajo_name": "Ch’il bi látah łitsoi dí chi’i’í",
+    "scientific_name": "Hymenoxys spp.",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "Toxic to sheep",
+    "description": "Yellow-flowered plant found on open rangeland. Poisonous to sheep and can taint the milk of goats and cattle that eat it.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/400042/medium.jpg",
+    "photo_attr": "(c) Matt Lavin, some rights reserved (CC BY-SA)",
+    "photo_license": "cc-by-sa",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/400042/medium.jpg",
+        "attr": "(c) Matt Lavin, some rights reserved (CC BY-SA)"
+      }
+    ],
+    "single_photo_reason": "Rare subspecies, very few observations"
+  },
+  {
+    "english_name": "Blackbrush",
+    "navajo_name": "Ch’il łizhiní",
+    "scientific_name": "Coleogyne ramosissima",
+    "aka": "",
+    "plant_type": "Shrub",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "Low palatability / Increases with grazing",
+    "description": "Tough, long-lived shrub that thrives on dry, rocky ground — one of the hardiest plants on Navajo rangelands. Dark branches with small leaves. Livestock generally pass it by. Provides good ground cover and erosion protection.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26101/medium.jpg",
+    "photo_attr": "(c) Brent Miller, some rights reserved (CC BY-NC-ND)",
+    "photo_license": "cc-by-nc-nd",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26101/medium.jpg",
+        "attr": "(c) Brent Miller, some rights reserved (CC BY-NC-ND)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26102/medium.jpg",
+        "attr": "(c) Grand Canyon NPS, some rights reserved (CC BY)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2893275/medium.jpg",
+        "attr": "(c) Don Davis, some rights reserved (CC BY-NC-ND)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2893276/medium.jpg",
+        "attr": "(c) Don Davis, some rights reserved (CC BY-NC-ND)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2893277/medium.jpg",
+        "attr": "(c) Laura Camp, some rights reserved (CC BY-SA)"
+      }
+    ]
+  },
+  {
+    "english_name": "Blanket Flower",
+    "navajo_name": "Ch’il bi látah hózhóón",
+    "scientific_name": "Gaillardia spp.",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "None",
+    "description": "Showy yellow and red flowers that brighten the range in summer — one of the most colorful wildflowers on the reservation. Great for bees and pollinators.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2525729/medium.jpg",
+    "photo_attr": "(c) Roberto R. Calderón, some rights reserved (CC BY-NC), uploaded by Roberto R. Calderón",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2525729/medium.jpg",
+        "attr": "(c) Roberto R. Calderón, some rights reserved (CC BY-NC), uploaded by Roberto R. Calderón"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/20710271/medium.jpg",
+        "attr": "(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/9832731/medium.jpeg",
+        "attr": "(c) Cherrie-lee P. Phillip, all rights reserved, uploaded by Cherrie-lee P. Phillip"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98992765/medium.jpeg",
+        "attr": "(c) Joey Santore, some rights reserved (CC BY-NC), uploaded by Joey Santore"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/17106417/medium.jpg",
+        "attr": "(c) Joel Abraham, all rights reserved, uploaded by Joel Abraham"
+      }
+    ]
+  },
+  {
+    "english_name": "Blue-eyed-grass",
+    "navajo_name": "Azee’ tł’ohí",
+    "scientific_name": "Sisyrinchium spp.",
+    "aka": "Arizona blue-eyed grass",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "None",
+    "description": "Small grasslike plant with pretty blue star-shaped flowers found in moist meadows. Despite its name, it's actually in the iris family, not a true grass.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27294024/medium.jpg",
+    "photo_attr": "(c) aacocucci, some rights reserved (CC BY), uploaded by aacocucci",
+    "photo_license": "cc-by",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27294024/medium.jpg",
+        "attr": "(c) aacocucci, some rights reserved (CC BY), uploaded by aacocucci"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56086784/medium.jpg",
+        "attr": "(c) Lisette Arellano, some rights reserved (CC BY-NC-SA), uploaded by Lisette Arellano"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109249177/medium.jpg",
+        "attr": "(c) Adriano Silvério, some rights reserved (CC BY-NC), uploaded by Adriano Silvério"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30909859/medium.jpg",
+        "attr": "(c) Edward Lisowski, some rights reserved (CC BY-NC), uploaded by Edward Lisowski"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116712729/medium.jpg",
+        "attr": "(c) Darío De la Fuente, some rights reserved (CC BY), uploaded by Darío De la Fuente"
+      }
+    ]
+  },
+  {
+    "english_name": "Bluebells",
+    "navajo_name": "Dahiitiíhí dą́ą́’ dootł’izhí",
+    "scientific_name": "Campanula rotundifolia",
+    "aka": "Harebell",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "None",
+    "description": "Delicate blue bell-shaped flowers found in mountain meadows and rocky areas. One of the prettiest spring wildflowers at higher elevations.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65358586/medium.jpg",
+    "photo_attr": "(c) Sandy Rae, some rights reserved (CC BY)",
+    "photo_license": "cc-by",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214019457/medium.jpg",
+        "attr": "(c) Thomas Shahan, some rights reserved (CC BY-NC), uploaded by Thomas Shahan"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/663994/medium.jpg",
+        "attr": "(c) Susan Elliott, some rights reserved (CC BY-NC), uploaded by Susan Elliott"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/12744810/medium.jpg",
+        "attr": "(c) Scott Pohlman, all rights reserved, uploaded by Scott Pohlman"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/83218085/medium.jpg",
+        "attr": "(c) Richard Hartnup, all rights reserved, uploaded by Richard Hartnup"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45360024/medium.jpg",
+        "attr": "(c) Jason Headley, some rights reserved (CC BY-NC), uploaded by Jason Headley"
+      }
+    ]
+  },
+  {
+    "english_name": "Bluegrass Kentucky",
+    "navajo_name": "Tsétah tł’oh",
+    "scientific_name": "Poa pratensis",
+    "aka": "",
+    "plant_type": "Grass",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "None",
+    "description": "Common cool-season grass used in pastures and lawns. Provides fair to good grazing, especially in spring. Needs more water than most range grasses.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170918800/medium.jpg",
+    "photo_attr": "(c) Bill Harms, some rights reserved (CC BY-NC), uploaded by Bill Harms",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200544404/medium.jpeg",
+        "attr": "(c) tobi123, some rights reserved (CC BY-NC), uploaded by tobi123"
+      }
+    ],
+    "single_photo_reason": "Uncommon grass with limited photos"
+  },
+  {
+    "english_name": "Bluestem Little False",
+    "navajo_name": "Tł’oh dei łichi’í",
+    "scientific_name": "Schizachyrium scoparium var. scoparium",
+    "aka": "Beard grass",
+    "plant_type": "Grass",
+    "habitat": "Grows on sand, loam, and shallow upland soils. Needs 6–14 inches of rain.",
+    "growing_season": "Warm season",
+    "special_considerations": "None",
+    "description": "Medium-height grass that turns reddish after frost. Found in pine country understory. Provides fair grazing when green but cattle tend to avoid it when dry.",
+    "photo_url": "https://static.inaturalist.org/photos/14964382/medium.jpg",
+    "photo_attr": "(c) Pablo L Ruiz, all rights reserved, uploaded by Pablo L Ruiz",
+    "photo_license": null,
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163915824/medium.jpg",
+        "attr": "(c) Scott E Severs, some rights reserved (CC BY-NC), uploaded by Scott E Severs"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5279594/medium.jpeg",
+        "attr": "(c) Colin Meurk, some rights reserved (CC BY-SA), uploaded by Colin Meurk"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148440826/medium.jpeg",
+        "attr": "(c) Annette Le Faive, some rights reserved (CC BY-NC), uploaded by Annette Le Faive"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87204343/medium.jpg",
+        "attr": "no rights reserved, uploaded by Craig Martin"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37585113/medium.jpeg",
+        "attr": "(c) Ann M Grant, some rights reserved (CC BY-NC), uploaded by Ann M Grant"
+      }
+    ]
+  },
+  {
+    "english_name": "Bottlebrush Squirreltail",
+    "navajo_name": "Azéé’iilwo’ ntsaaí",
+    "scientific_name": "Elymus elymoides",
+    "aka": "",
+    "plant_type": "Grass",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Provides good forage",
+    "description": "Native bunchgrass with a bushy seedhead that looks like a bottlebrush — easy to recognize. Good forage in spring before the seeds develop. The sharp seeds can irritate livestock mouths and eyes later in the season.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77063444/medium.jpg",
+    "photo_attr": "(c) Mike Andersen, some rights reserved (CC BY-NC-ND), uploaded by Mike Andersen",
+    "photo_license": "cc-by-nc-nd",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77063444/medium.jpg",
+        "attr": "(c) Mike Andersen, some rights reserved (CC BY-NC-ND), uploaded by Mike Andersen"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343230007/medium.jpeg",
+        "attr": "(c) Peter Zika, some rights reserved (CC BY-NC), uploaded by Peter Zika"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/68589761/medium.jpg",
+        "attr": "(c) Brandt Magic, some rights reserved (CC BY-NC), uploaded by Brandt Magic"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/142740/medium.jpg",
+        "attr": "(c) Matt Lavin, some rights reserved (CC BY-SA)"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/19874024/medium.jpeg",
+        "attr": "(c) Elin Pierce, all rights reserved, uploaded by Elin Pierce"
+      }
+    ]
+  },
+  {
+    "english_name": "Brome Field",
+    "navajo_name": "",
+    "scientific_name": "Bromus arvensis",
+    "aka": "",
+    "plant_type": "Grass",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Noxious",
+    "description": "Non-native winter annual with drooping seedheads. Found along roadsides and old fields. Low forage value.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254869021/medium.jpeg",
+    "photo_attr": "(c) Attila Lengyel, some rights reserved (CC BY-NC), uploaded by Attila Lengyel",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254869021/medium.jpeg",
+        "attr": "(c) Attila Lengyel, some rights reserved (CC BY-NC), uploaded by Attila Lengyel"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405507972/medium.jpg",
+        "attr": "(c) Sebastian J. Dunkl, some rights reserved (CC BY-NC), uploaded by Sebastian J. Dunkl"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405507631/medium.jpg",
+        "attr": "(c) Sebastian J. Dunkl, some rights reserved (CC BY-NC), uploaded by Sebastian J. Dunkl"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405507387/medium.jpg",
+        "attr": "(c) Sebastian J. Dunkl, some rights reserved (CC BY-NC), uploaded by Sebastian J. Dunkl"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405507807/medium.jpg",
+        "attr": "(c) Sebastian J. Dunkl, some rights reserved (CC BY-NC), uploaded by Sebastian J. Dunkl"
+      }
+    ]
+  },
+  {
+    "english_name": "Brome Japanese",
+    "navajo_name": "",
+    "scientific_name": "Bromus japonicus",
+    "aka": "",
+    "plant_type": "Grass",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Noxious",
+    "description": "Non-native annual grass with open, drooping seedheads. Found along roads and open ground. Provides brief early grazing.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/84449748/medium.jpeg",
+    "photo_attr": "(c) Bill Crins, some rights reserved (CC BY-NC), uploaded by Bill Crins",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/84449748/medium.jpeg",
+        "attr": "(c) Bill Crins, some rights reserved (CC BY-NC), uploaded by Bill Crins"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168392449/medium.jpg",
+        "attr": "(c) Martin A. Prinz, some rights reserved (CC BY-NC), uploaded by Martin A. Prinz"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/201529672/medium.jpg",
+        "attr": "(c) Chuangzao, some rights reserved (CC BY-NC), uploaded by Chuangzao"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73570779/medium.jpeg",
+        "attr": "(c) Сергей, some rights reserved (CC BY-NC), uploaded by Сергей"
+      }
+    ]
+  },
+  {
+    "english_name": "Brome Mountain",
+    "navajo_name": "Tł’ohtsoh nditł’izí",
+    "scientific_name": "Bromus carinatus",
+    "aka": "California brome",
+    "plant_type": "Grass",
+    "habitat": "Grows on loam, clay, and shallow upland soils. Needs 10–30 inches of rain.",
+    "growing_season": "Cool season",
+    "special_considerations": "Good spring forage",
+    "description": "One of the best native bunchgrasses — livestock love it in spring when it's green and tender. Good for reseeding worn-out range. Grows 2 to 4 feet tall.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399068532/medium.jpg",
+    "photo_attr": "(c) Julie Ann Kierstead, some rights reserved (CC BY-NC), uploaded by Julie Ann Kierstead",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399068532/medium.jpg",
+        "attr": "(c) Julie Ann Kierstead, some rights reserved (CC BY-NC), uploaded by Julie Ann Kierstead"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/502372794/medium.jpg",
+        "attr": "(c) Pat P, all rights reserved, uploaded by Pat P"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11796/medium.jpg",
+        "attr": "(c) Matt Lavin, some rights reserved (CC BY-SA)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11797/medium.jpg",
+        "attr": "(c) Matt Lavin, some rights reserved (CC BY-SA)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37322107/medium.jpeg",
+        "attr": "(c) Lesli Lee, some rights reserved (CC BY-NC), uploaded by Lesli Lee"
+      }
+    ]
+  },
+  {
+    "english_name": "Brome Red",
+    "navajo_name": "Bi’zé yilwo’ łichi’í",
+    "scientific_name": "Bromus rubens",
+    "aka": "",
+    "plant_type": "Grass",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "Noxious / Can be harmful to livestock",
+    "description": "Non-native annual with compact, reddish seedheads. The long sharp awns can injure livestock mouths, eyes, and noses when seeds ripen.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32783733/medium.jpg",
+    "photo_attr": "(c) jrebman, some rights reserved (CC BY-NC), uploaded by jrebman",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32783733/medium.jpg",
+        "attr": "(c) jrebman, some rights reserved (CC BY-NC), uploaded by jrebman"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243967970/medium.jpg",
+        "attr": "(c) reinderw, some rights reserved (CC BY-NC), uploaded by reinderw"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127632890/medium.jpg",
+        "attr": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/36604492/medium.jpeg",
+        "attr": "(c) Amy, some rights reserved (CC BY), uploaded by Amy"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3033218/medium.JPG",
+        "attr": "(c) James Bailey, some rights reserved (CC BY-NC), uploaded by James Bailey"
+      }
+    ]
+  },
+  {
+    "english_name": "Brome Ripgut",
+    "navajo_name": "Tł’oh da a gishi",
+    "scientific_name": "Bromus diandrus",
+    "aka": "",
+    "plant_type": "Grass",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "Can injure livestock",
+    "description": "Non-native annual named for its stiff, long awns that can injure livestock. Dries out fast in summer and can be a fire hazard.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131068365/medium.jpeg",
+    "photo_attr": "no rights reserved, uploaded by Ben Keen",
+    "photo_license": "cc0",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131068365/medium.jpeg",
+        "attr": "no rights reserved, uploaded by Ben Keen"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/262156961/medium.jpg",
+        "attr": "(c) Stephanie, some rights reserved (CC BY-NC), uploaded by Stephanie"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267249423/medium.jpeg",
+        "attr": "(c) Dan Beckman, some rights reserved (CC BY-NC), uploaded by Dan Beckman"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202675829/medium.jpeg",
+        "attr": "(c) John Lyden, some rights reserved (CC BY), uploaded by John Lyden"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/1581188/medium.JPG",
+        "attr": "(c) Gary McDonald, all rights reserved, uploaded by Gary McDonald"
+      }
+    ]
+  },
+  {
+    "english_name": "Brome Smooth",
+    "navajo_name": "Bįįh tł’óh",
+    "scientific_name": "Bromus inermis",
+    "aka": "",
+    "plant_type": "Grass",
+    "habitat": "Grows on sand, loam, and clay soils, both upland and bottomland. Needs 6–14 inches of rain. Adapted to moister areas. Introduced species.",
+    "growing_season": "Cool season",
+    "special_considerations": "Invasive",
+    "description": "Leafy grass that spreads by sod. Good forage with high protein. Used for hay and pasture improvement. One of the better introduced grasses for grazing.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449379438/medium.jpeg",
+    "photo_attr": "(c) Jeremy Graves, some rights reserved (CC BY-NC), uploaded by Jeremy Graves",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449379438/medium.jpeg",
+        "attr": "(c) Jeremy Graves, some rights reserved (CC BY-NC), uploaded by Jeremy Graves"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135613392/medium.jpeg",
+        "attr": "(c) Johnny Baakliny, some rights reserved (CC BY-NC), uploaded by Johnny Baakliny"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9089871/medium.jpeg",
+        "attr": "(c) Don Sutherland, some rights reserved (CC BY-NC), uploaded by Don Sutherland"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3964905/medium.JPG",
+        "attr": "(c) Mark Kluge, some rights reserved (CC BY-NC), uploaded by Mark Kluge"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/145287562/medium.jpg",
+        "attr": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman"
+      }
+    ]
+  },
+  {
+    "english_name": "Buckwheat",
+    "navajo_name": "Bisnideeshchii’",
+    "scientific_name": "Eriogonum spp.",
+    "aka": "Slender buckwheat, sand buckwheat",
+    "plant_type": "Forb/Shrub",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "None",
+    "description": "Large group of plants with many species found across the reservation — from low desert to mountain foothills. Small clustered flowers, often white or pink. Important for bees and helps hold soil in place.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58619859/medium.jpeg",
+    "photo_attr": "(c) E. Merkt, some rights reserved (CC BY-NC), uploaded by E. Merkt",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58619859/medium.jpeg",
+        "attr": "(c) E. Merkt, some rights reserved (CC BY-NC), uploaded by E. Merkt"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160842265/medium.jpeg",
+        "attr": "(c) Jeff Bisbee, some rights reserved (CC BY-NC), uploaded by Jeff Bisbee"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/44491719/medium.jpg",
+        "attr": "(c) Jeff Stauffer, all rights reserved, uploaded by Jeff Stauffer"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50373023/medium.jpeg",
+        "attr": "(c) Matt Berger, some rights reserved (CC BY), uploaded by Matt Berger"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4255073/medium.JPG",
+        "attr": "(c) Cheryl Beyer, some rights reserved (CC BY-NC), uploaded by Cheryl Beyer"
+      }
+    ]
+  },
+  {
+    "english_name": "Bull thistle",
+    "navajo_name": "Ch'il Deeníni'",
+    "scientific_name": "Cirsium vulgare",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Noxious weed (BIA Category A — high priority for removal, not yet widespread); Spines harm livestock",
+    "description": "Non-native biennial with large spiny purple flower heads that attracts butterflies and bees. Livestock leave it alone. Spreads by seed — can be managed by removing before it flowers.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306770747/medium.jpeg",
+    "photo_attr": "(c) Sabine Atteln, some rights reserved (CC BY-NC), uploaded by Sabine Atteln",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306770747/medium.jpeg",
+        "attr": "(c) Sabine Atteln, some rights reserved (CC BY-NC), uploaded by Sabine Atteln"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106346873/medium.jpg",
+        "attr": "(c) Sandy Wolkenberg, some rights reserved (CC BY), uploaded by Sandy Wolkenberg"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/20652162/medium.jpg",
+        "attr": "(c) panne, all rights reserved"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106850594/medium.jpg",
+        "attr": "(c) Tatyana Zarubo, some rights reserved (CC BY-NC), uploaded by Tatyana Zarubo"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/84989957/medium.jpg",
+        "attr": "(c) coolbreeze64, some rights reserved (CC BY-NC), uploaded by coolbreeze64"
+      }
+    ]
+  },
+  {
+    "english_name": "Bulrush",
+    "navajo_name": "Lók’aa tł’ohtsoh",
+    "scientific_name": "Schoenoplectus acutus",
+    "aka": "Tule, hardstem bulrush",
+    "plant_type": "Grasslike",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Good cover",
+    "description": "Tall wetland plant with dark brown cylindrical seedheads found near ponds, marshes, and along streams. Provides important habitat for birds, frogs, and other wildlife around water.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17377005/medium.jpeg",
+    "photo_attr": "(c) Sean Blaney, some rights reserved (CC BY-NC), uploaded by Sean Blaney",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17377005/medium.jpeg",
+        "attr": "(c) Sean Blaney, some rights reserved (CC BY-NC), uploaded by Sean Blaney"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4440578/medium.jpeg",
+        "attr": "(c) Mark Kluge, some rights reserved (CC BY-NC), uploaded by Mark Kluge"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141025661/medium.jpeg",
+        "attr": "(c) Lane, some rights reserved (CC BY-NC), uploaded by Lane"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20892505/medium.jpg",
+        "attr": "(c) Kat Halsey, some rights reserved (CC BY-NC), uploaded by Kat Halsey"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81102755/medium.jpg",
+        "attr": "(c) Cat Chang, some rights reserved (CC BY-NC), uploaded by Cat Chang"
+      }
+    ]
+  },
+  {
+    "english_name": "Bundle Flower",
+    "navajo_name": "K’ei’ chilí",
+    "scientific_name": "Desmanthus cooleyi",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "None",
+    "description": "Native legume with fluffy white to pink flowers. Adds nitrogen to the soil, which helps nearby grasses grow better. Decent forage for livestock.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88013989/medium.jpg",
+    "photo_attr": "(c) mm94, some rights reserved (CC BY-NC), uploaded by mm94",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88013989/medium.jpg",
+        "attr": "(c) mm94, some rights reserved (CC BY-NC), uploaded by mm94"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10102075/medium.jpg",
+        "attr": "(c) Nathan Taylor, some rights reserved (CC BY-NC), uploaded by Nathan Taylor"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8623774/medium.jpg",
+        "attr": "(c) Alex Abair, some rights reserved (CC BY), uploaded by Alex Abair"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8623775/medium.jpg",
+        "attr": "(c) Alex Abair, some rights reserved (CC BY), uploaded by Alex Abair"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4857084/medium.jpg",
+        "attr": "(c) Joanne Toler, some rights reserved (CC BY-NC), uploaded by Joanne Toler"
+      }
+    ]
+  },
+  {
+    "english_name": "California burclover",
+    "navajo_name": "Tł'oh azee'",
+    "scientific_name": "Medicago polymorpha",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Noxious weed (BIA Category C — widespread, managed to limit further impact)",
+    "description": "Non-native annual with small yellow clover-like flowers. The coiled spiny seed pods stick to wool, fur, and clothing — can be a problem at shearing time.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/120080420/medium.jpg",
+    "photo_attr": "(c) hfabela, some rights reserved (CC BY-NC)",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/120080420/medium.jpg",
+        "attr": "(c) hfabela, some rights reserved (CC BY-NC)"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/66777105/medium.jpeg",
+        "attr": "(c) Natalie White, all rights reserved, uploaded by Natalie White"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361431157/medium.jpg",
+        "attr": "(c) Daniel Ruppel, some rights reserved (CC BY-NC), uploaded by Daniel Ruppel"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472986760/medium.jpeg",
+        "attr": "(c) Piermario Maculan, some rights reserved (CC BY-NC), uploaded by Piermario Maculan"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34981916/medium.jpeg",
+        "attr": "(c) Nathan Taylor, some rights reserved (CC BY-NC), uploaded by Nathan Taylor"
+      }
+    ]
+  },
+  {
+    "english_name": "Camelthorn",
+    "navajo_name": "Ch'il Hoshí",
+    "scientific_name": "Alhagi maurorum",
+    "aka": "Alhagi camelorum",
+    "plant_type": "Shrub",
+    "habitat": "",
+    "growing_season": "Cool Season",
+    "special_considerations": "Noxious weed (BIA Category B — established, actively managed to prevent spread)",
+    "description": "Non-native spiny shrub from Central Asia with small pink flowers and very deep roots. Found along roadsides and sandy ground. Best managed early before it gets established.",
+    "photo_url": "https://static.inaturalist.org/photos/152310031/medium.jpg",
+    "photo_attr": "(c) Omar Al-Halabi, all rights reserved, uploaded by Omar Al-Halabi",
+    "photo_license": null,
+    "photos": [
+      {
+        "url": "https://static.inaturalist.org/photos/152310031/medium.jpg",
+        "attr": "(c) Omar Al-Halabi, all rights reserved, uploaded by Omar Al-Halabi"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29135360/medium.jpeg",
+        "attr": "(c) Conor and Alexandra, some rights reserved (CC BY-NC), uploaded by Conor and Alexandra"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/222167212/medium.jpg",
+        "attr": "(c) richard, all rights reserved, uploaded by richard"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477537866/medium.jpg",
+        "attr": "(c) Jugal Patel, some rights reserved (CC BY-NC), uploaded by Jugal Patel"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478083752/medium.jpeg",
+        "attr": "(c) nicole_eiten, some rights reserved (CC BY-NC), uploaded by nicole_eiten"
+      }
+    ]
+  },
+  {
+    "english_name": "Canada thistle",
+    "navajo_name": "Azee' hakaní yázhí",
+    "scientific_name": "Cirsium arvense",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Noxious weed (BIA Category A — high priority for removal, not yet widespread)",
+    "description": "Non-native perennial with purple flower heads that spreads by deep, creeping roots. Attracts butterflies and bees. Can crowd out forage plants — best managed by consistent removal.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/333452083/medium.jpg",
+    "photo_attr": "(c) Adja Gaye, some rights reserved (CC BY-NC), uploaded by Adja Gaye",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/333452083/medium.jpg",
+        "attr": "(c) Adja Gaye, some rights reserved (CC BY-NC), uploaded by Adja Gaye"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21270271/medium.jpeg",
+        "attr": "(c) Almantas Kulbis, some rights reserved (CC BY-NC), uploaded by Almantas Kulbis"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178220769/medium.jpg",
+        "attr": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58202149/medium.jpg",
+        "attr": "(c) A Emmerson, some rights reserved (CC BY-NC), uploaded by A Emmerson"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4754948/medium.jpg",
+        "attr": "(c) Danny S., some rights reserved (CC BY-SA)"
+      }
+    ]
+  },
+  {
+    "english_name": "Cheatgrass",
+    "navajo_name": "Shíyináldzidí",
+    "scientific_name": "Bromus tectorum",
+    "aka": "",
+    "plant_type": "Grass",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Invasive",
+    "description": "Widespread non-native annual grass with soft, drooping seedheads that turn reddish-purple when ripe. One of the most common grasses across western rangeland. Provides brief early grazing but dries out fast and increases fire risk.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58336299/medium.jpeg",
+    "photo_attr": "(c) Соколков Юрий Павлович, some rights reserved (CC BY-NC), uploaded by Соколков Юрий Павлович",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58336299/medium.jpeg",
+        "attr": "(c) Соколков Юрий Павлович, some rights reserved (CC BY-NC), uploaded by Соколков Юрий Павлович"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164210508/medium.jpg",
+        "attr": "(c) Pavel Gorbunov, some rights reserved (CC BY-NC), uploaded by Pavel Gorbunov"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278494760/medium.jpeg",
+        "attr": "(c) Wayne Longbottom, some rights reserved (CC BY-NC), uploaded by Wayne Longbottom"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70313319/medium.jpeg",
+        "attr": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY), uploaded by Alexis Tinker-Tsavalas"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51904479/medium.jpg",
+        "attr": "(c) bhklappe, some rights reserved (CC BY-NC)"
+      }
+    ]
+  },
+  {
+    "english_name": "Chokecherry",
+    "navajo_name": "Didzé dik’ǫ́zhí",
+    "scientific_name": "Prunus virginiana",
+    "aka": "",
+    "plant_type": "Shrub/Tree",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Cyanogenic / Poisonous in large amounts",
+    "description": "Small tree or large shrub with fragrant white flower clusters in spring and dark berries in late summer. Birds and wildlife eat the fruit. Note: wilted leaves and branches contain compounds that are toxic to livestock — be aware of this after storms break branches.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/146282563/medium.jpg",
+    "photo_attr": "(c) Dan Mullen, some rights reserved (CC BY-NC-ND)",
+    "photo_license": "cc-by-nc-nd",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/146282563/medium.jpg",
+        "attr": "(c) Dan Mullen, some rights reserved (CC BY-NC-ND)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/208731123/medium.jpg",
+        "attr": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/146282564/medium.jpg",
+        "attr": "(c) Brett Whaley, some rights reserved (CC BY-NC)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/146282565/medium.jpg",
+        "attr": "(c) born1945, some rights reserved (CC BY)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19337236/medium.jpeg",
+        "attr": "(c) Mart Hughes, some rights reserved (CC BY-NC), uploaded by Mart Hughes"
+      }
+    ]
+  },
+  {
+    "english_name": "Cholla",
+    "navajo_name": "Hoshdí tsáhii",
+    "scientific_name": "Cylindropuntia spp.",
+    "aka": "Cane cholla, walking stick cholla",
+    "plant_type": "Cactus",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "Provides cover / Fruit",
+    "description": "Segmented cactus with sharp spines and showy flowers. The joints detach easily and can stick to livestock and clothing. Provides some shelter and food for wildlife.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24762425/medium.jpg",
+    "photo_attr": "no rights reserved, uploaded by Owen McElroy",
+    "photo_license": "cc0",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24762425/medium.jpg",
+        "attr": "no rights reserved, uploaded by Owen McElroy"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3585567/medium.jpg",
+        "attr": "(c) klaudia, some rights reserved (CC BY-NC), uploaded by klaudia"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16499869/medium.jpg",
+        "attr": "(c) CK2AZ, some rights reserved (CC BY), uploaded by CK2AZ"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/42918180/medium.jpg",
+        "attr": "(c) Alex Wild, all rights reserved, uploaded by Alex Wild"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18252583/medium.jpg",
+        "attr": "(c) Cat Chang, some rights reserved (CC BY-NC), uploaded by Cat Chang"
+      }
+    ]
+  },
+  {
+    "english_name": "Cliff Fendlerbush",
+    "navajo_name": "K’iishzhiní",
+    "scientific_name": "Fendlera rupicola",
+    "aka": "",
+    "plant_type": "Shrub",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "None",
+    "description": "Attractive shrub with showy white four-petaled flowers found on cliffs and rocky slopes. The hard, straight stems were valued for their strength. Provides cover for wildlife in canyon country.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38336456/medium.jpg",
+    "photo_attr": "(c) chrispina, some rights reserved (CC BY-NC)",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38336456/medium.jpg",
+        "attr": "(c) chrispina, some rights reserved (CC BY-NC)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2776223/medium.jpg",
+        "attr": "(c) Four Corners School of Outdoor Education, some rights reserved (CC BY-ND)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268927474/medium.jpeg",
+        "attr": "(c) Radha Veach, some rights reserved (CC BY-NC), uploaded by Radha Veach"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/373001527/medium.jpeg",
+        "attr": "(c) Carolina May, all rights reserved, uploaded by Carolina May"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35161456/medium.jpg",
+        "attr": "(c) Alex Abair, some rights reserved (CC BY), uploaded by Alex Abair"
+      }
+    ]
+  },
+  {
+    "english_name": "Cliffrose",
+    "navajo_name": "Awééts’áál",
+    "scientific_name": "Purshia mexicana",
+    "aka": "Cowania neomexicana",
+    "plant_type": "Shrub",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "Important browse",
+    "description": "Fragrant evergreen shrub with creamy white flowers and feathery seed plumes. Found on rocky slopes and canyon rims. An important browse plant — deer and other wildlife depend on it, especially in winter.",
+    "photo_url": "https://static.inaturalist.org/photos/37683258/medium.jpg",
+    "photo_attr": "(c) nsteele, all rights reserved",
+    "photo_license": null,
+    "photos": [
+      {
+        "url": "https://static.inaturalist.org/photos/37683258/medium.jpg",
+        "attr": "(c) nsteele, all rights reserved"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/63070354/medium.jpeg",
+        "attr": "(c) Remington Jackson, some rights reserved (CC BY-NC), uploaded by Remington Jackson"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/18160103/medium.jpg",
+        "attr": "(c) imapinemarten, all rights reserved"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/204314/medium.jpg",
+        "attr": "(c) J. N. Stuart, all rights reserved, uploaded by J. N. Stuart"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204313/medium.jpg",
+        "attr": "(c) Tony Frates, some rights reserved (CC BY-NC-SA)"
+      }
+    ]
+  },
+  {
+    "english_name": "Cocklebur",
+    "navajo_name": "Tániits'éhii",
+    "scientific_name": "Xanthium saccharatum",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Potentially invasive; Causes injury",
+    "description": "Annual with large, lobed leaves and oval spiny burs that cling to wool, fur, and clothing. Found along washes and near water. Seedlings contain compounds that are toxic to livestock, especially young animals.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184297299/medium.jpg",
+    "photo_attr": "(c) Troos van der Merwe, some rights reserved (CC BY-NC), uploaded by Troos van der Merwe",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1724597/medium.JPG",
+        "attr": "(c) Andy, some rights reserved (CC BY-NC), uploaded by Andy"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/1562038/medium.JPG",
+        "attr": "(c) Miguel González Botello, all rights reserved, uploaded by Miguel González Botello"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/10464401/medium.jpeg",
+        "attr": "(c) Patalo - yolo, all rights reserved, uploaded by Patalo - yolo"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30592650/medium.jpg",
+        "attr": "(c) Stefan.lefnaer, some rights reserved (CC BY-SA)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30592651/medium.jpg",
+        "attr": "(c) Stefan.lefnaer, some rights reserved (CC BY-SA)"
+      }
+    ]
+  },
+  {
+    "english_name": "Colorado Piñon",
+    "navajo_name": "Chá’oł",
+    "scientific_name": "Pinus edulis",
+    "aka": "Piñon pine, two-needle pinyon",
+    "plant_type": "Tree",
+    "habitat": "Covers thousands of acres of Navajo rangeland along with juniper.",
+    "growing_season": "Cool season",
+    "special_considerations": "Edible nuts / Wildlife food",
+    "description": "One of the most important trees on the reservation — produces pine nuts that have been gathered for generations. Provides firewood, shade, and shelter.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72877994/medium.jpg",
+    "photo_attr": "(c) jwaskowiak, some rights reserved (CC BY-NC)",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72877994/medium.jpg",
+        "attr": "(c) jwaskowiak, some rights reserved (CC BY-NC)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45377/medium.jpg",
+        "attr": "(c) Razzu Engen, some rights reserved (CC BY-NC-SA)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45375/medium.jpg",
+        "attr": "(c) Dane Larsen, some rights reserved (CC BY-NC)"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/45376/medium.jpg",
+        "attr": "(c) J. N. Stuart, all rights reserved, uploaded by J. N. Stuart"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/4686640/medium.jpg",
+        "attr": "(c) William Heyborne, all rights reserved, uploaded by William Heyborne"
+      }
+    ]
+  },
+  {
+    "english_name": "Common Mediterranean grass",
+    "navajo_name": "",
+    "scientific_name": "Schismus barbatus",
+    "aka": "",
+    "plant_type": "Grass",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Noxious weed (BIA Category A — high priority for removal, not yet widespread)",
+    "description": "Small non-native annual that forms dense mats in desert areas. Tiny and easy to overlook. Originally from the Mediterranean region.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14779551/medium.jpg",
+    "photo_attr": "(c) jrebman, some rights reserved (CC BY-NC), uploaded by jrebman",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14779551/medium.jpg",
+        "attr": "(c) jrebman, some rights reserved (CC BY-NC), uploaded by jrebman"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17566131/medium.jpg",
+        "attr": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82264052/medium.jpg",
+        "attr": "(c) Kym Nicolson, some rights reserved (CC BY), uploaded by Kym Nicolson"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66061268/medium.jpg",
+        "attr": "(c) Chris W., some rights reserved (CC BY-NC), uploaded by Chris W."
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/55103972/medium.jpeg",
+        "attr": "(c) dansong19, all rights reserved"
+      }
+    ]
+  },
+  {
+    "english_name": "Common Purslane",
+    "navajo_name": "Tsiighájiłchíí",
+    "scientific_name": "Portulaca oleracea",
+    "aka": "Little hogweed",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "Edible",
+    "description": "Low-growing succulent annual with small yellow flowers and fleshy, reddish stems. Found in gardens and open ground. One of the most widespread plants in the world.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157729445/medium.jpeg",
+    "photo_attr": "(c) Pierre Corbrion, some rights reserved (CC BY-NC-SA), uploaded by Pierre Corbrion",
+    "photo_license": "cc-by-nc-sa",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94112307/medium.jpeg",
+        "attr": "(c) María Eugenia Mendiola González, some rights reserved (CC BY-NC-SA), uploaded by María Eugenia Mendiola González"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265092297/medium.jpg",
+        "attr": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96798633/medium.jpeg",
+        "attr": "(c) Luis Vigosa, some rights reserved (CC BY-NC), uploaded by Luis Vigosa"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160431902/medium.jpeg",
+        "attr": "(c) wormsy, some rights reserved (CC BY-NC), uploaded by wormsy"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353638343/medium.jpg",
+        "attr": "(c) Jason Headley, some rights reserved (CC BY-NC), uploaded by Jason Headley"
+      }
+    ]
+  },
+  {
+    "english_name": "Copperweed",
+    "navajo_name": "K'iiłtsoi nitł'izí",
+    "scientific_name": "Oxytenia acerosa",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Poisonous to livestock; Sudden death in cattle",
+    "description": "Perennial with narrow leaves and small yellow flower clusters found in salty river bottom soils. Toxic to cattle — can cause sudden illness. Important to recognize.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425930754/medium.jpeg",
+    "photo_attr": "(c) Zach Earl, some rights reserved (CC BY), uploaded by Zach Earl",
+    "photo_license": "cc-by",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425930754/medium.jpeg",
+        "attr": "(c) Zach Earl, some rights reserved (CC BY), uploaded by Zach Earl"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27521996/medium.jpg",
+        "attr": "(c) Naomi Fraga, some rights reserved (CC BY-NC-SA), uploaded by Naomi Fraga"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334836102/medium.jpg",
+        "attr": "(c) Jim Andre, some rights reserved (CC BY-NC), uploaded by Jim Andre"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247120358/medium.jpeg",
+        "attr": "(c) Zach Coury, some rights reserved (CC BY-NC), uploaded by Zach Coury"
+      }
+    ]
+  },
+  {
+    "english_name": "Cordgrass Alkali",
+    "navajo_name": "Tł’oh dá’ áka’ łitsoh",
+    "scientific_name": "Spartina gracilis",
+    "aka": "",
+    "plant_type": "Grass",
+    "habitat": "",
+    "growing_season": "Cool/Warm",
+    "special_considerations": "Good for erosion control",
+    "description": "Tough grass that holds stream banks together and controls erosion. Livestock will graze it. Useful for restoring damaged waterways on the range.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329884294/medium.jpg",
+    "photo_attr": "(c) Solomiya, some rights reserved (CC BY), uploaded by Solomiya",
+    "photo_license": "cc-by",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329884294/medium.jpg",
+        "attr": "(c) Solomiya, some rights reserved (CC BY), uploaded by Solomiya"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233609726/medium.jpeg",
+        "attr": "no rights reserved, uploaded by Julia Carr"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329242000/medium.jpg",
+        "attr": "(c) Solomiya, some rights reserved (CC BY), uploaded by Solomiya"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237988478/medium.jpeg",
+        "attr": "(c) Eva Ullström, some rights reserved (CC BY-NC), uploaded by Eva Ullström"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/21614482/medium.jpg",
+        "attr": "(c) Dana, all rights reserved, uploaded by Dana"
+      }
+    ]
+  },
+  {
+    "english_name": "Cow parsnip",
+    "navajo_name": "Azee' haagai",
+    "scientific_name": "Heracleum maximum",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Potential skin irritant",
+    "description": "Large plant with broad leaves and white flower clusters found in moist areas. The sap can cause painful skin burns and blisters in sunlight — best to avoid contact with bare skin.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137558496/medium.jpg",
+    "photo_attr": "(c) rangerkelly, some rights reserved (CC BY-NC), uploaded by rangerkelly",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137558496/medium.jpg",
+        "attr": "(c) rangerkelly, some rights reserved (CC BY-NC), uploaded by rangerkelly"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/19877365/medium.jpg",
+        "attr": "(c) Andy Birkey, all rights reserved, uploaded by Andy Birkey"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9738085/medium.jpeg",
+        "attr": "(c) Connie Taylor, some rights reserved (CC BY), uploaded by Connie Taylor"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51358283/medium.jpg",
+        "attr": "(c) margot_mich, some rights reserved (CC BY-NC)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/419313865/medium.jpeg",
+        "attr": "(c) rozzle, some rights reserved (CC BY-NC)"
+      }
+    ]
+  },
+  {
+    "english_name": "Coyote Willow",
+    "navajo_name": "K’ei’ łibáhí",
+    "scientific_name": "Salix exigua",
+    "aka": "Sandbar willow, narrowleaf willow",
+    "plant_type": "Tree/Shrub",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Good browse / Erosion control",
+    "description": "Fast-growing shrub with narrow silvery leaves found along waterways, washes, and springs. Important for holding stream banks in place and providing habitat for birds and wildlife near water.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23642240/medium.jpg",
+    "photo_attr": "(c) wyatthersey, some rights reserved (CC BY-NC)",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23642240/medium.jpg",
+        "attr": "(c) wyatthersey, some rights reserved (CC BY-NC)"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/18064542/medium.jpg",
+        "attr": "(c) Kelly O'Mahony, all rights reserved, uploaded by Kelly O'Mahony"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440710/medium.jpg",
+        "attr": "(c) 1998 California Academy of Sciences, some rights reserved (CC BY-NC-SA)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110211684/medium.jpg",
+        "attr": "(c) Stan Shebs, some rights reserved (CC BY-SA)"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/63375492/medium.jpg",
+        "attr": "(c) awiese, all rights reserved, uploaded by awiese"
+      }
+    ]
+  },
+  {
+    "english_name": "Curly dock",
+    "navajo_name": "Dził nát'oh",
+    "scientific_name": "Rumex crispus",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Toxic to livestock and poultry",
+    "description": "Tall plant with wavy-edged leaves and dense clusters of reddish-brown seeds on upright stalks. Found in moist areas. Toxic to livestock.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447224091/medium.jpeg",
+    "photo_attr": "(c) Joseph Knight, some rights reserved (CC BY-NC), uploaded by Joseph Knight",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447224091/medium.jpeg",
+        "attr": "(c) Joseph Knight, some rights reserved (CC BY-NC), uploaded by Joseph Knight"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/80153135/medium.jpeg",
+        "attr": "(c) lyleand, all rights reserved, uploaded by lyleand"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299454626/medium.jpg",
+        "attr": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177768831/medium.jpg",
+        "attr": "(c) Thayne Tuason, some rights reserved (CC BY-SA)"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37091250/medium.jpg",
+        "attr": "(c) Hailey Adler, some rights reserved (CC BY-NC), uploaded by Hailey Adler"
+      }
+    ]
+  },
+  {
+    "english_name": "Curlycup Gumweed",
+    "navajo_name": "Ch’il bi látah altsoíí",
+    "scientific_name": "Grindelia squarrosa",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm season",
+    "special_considerations": "None",
+    "description": "Sticky yellow-flowered plant with resinous, curled flower bracts — the stickiness is distinctive. Found on open range and roadsides. Livestock generally pass it by.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50260312/medium.jpeg",
+    "photo_attr": "(c) Lena Dietz Chiasson, some rights reserved (CC BY-NC), uploaded by Lena Dietz Chiasson",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50260312/medium.jpeg",
+        "attr": "(c) Lena Dietz Chiasson, some rights reserved (CC BY-NC), uploaded by Lena Dietz Chiasson"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90303549/medium.jpg",
+        "attr": "(c) Remington Jackson, some rights reserved (CC BY-NC), uploaded by Remington Jackson"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65598369/medium.jpeg",
+        "attr": "(c) vladimir_epiktetov, some rights reserved (CC BY-NC), uploaded by vladimir_epiktetov"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48130862/medium.jpg",
+        "attr": "(c) Suzanne Dingwell, some rights reserved (CC BY-NC), uploaded by Suzanne Dingwell"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44481222/medium.jpg",
+        "attr": "(c) mcs899, some rights reserved (CC BY-NC), uploaded by mcs899"
+      }
+    ]
+  },
+  {
+    "english_name": "Dalmatian toadflax",
+    "navajo_name": "",
+    "scientific_name": "Linaria dalmatica",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Warm Season",
+    "special_considerations": "Noxious weed (BIA Category A — high priority for removal, not yet widespread)",
+    "description": "Non-native perennial with showy yellow snapdragon-like flowers and heart-shaped leaves that clasp the stem. Attractive but can spread on rangeland and compete with native grasses.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/571082607/medium.jpg",
+    "photo_attr": "(c) Ekaterina Kostjuhina, some rights reserved (CC BY-NC), uploaded by Ekaterina Kostjuhina",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/571082607/medium.jpg",
+        "attr": "(c) Ekaterina Kostjuhina, some rights reserved (CC BY-NC), uploaded by Ekaterina Kostjuhina"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606908481/medium.jpg",
+        "attr": "(c) Franck Le Driant, some rights reserved (CC BY-NC), uploaded by Franck Le Driant"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/280137127/medium.jpeg",
+        "attr": "(c) Christophe Girod, all rights reserved, uploaded by Christophe Girod"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/571024229/medium.jpg",
+        "attr": "(c) Christian Langner, all rights reserved, uploaded by Christian Langner"
+      }
+    ]
+  },
+  {
+    "english_name": "Dandelion",
+    "navajo_name": "Béésh yilt’ą́ą’í",
+    "scientific_name": "Taraxacum officinale",
+    "aka": "",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Edible",
+    "description": "Common plant with yellow flowers and distinctive puffball seedheads that children love to blow. Provides early spring nectar for bees. Found almost everywhere.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "photo_attr": "(c) Paul Reeves, some rights reserved (CC BY-NC-SA), uploaded by Paul Reeves",
+    "photo_license": "cc-by-nc-sa",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35280454/medium.jpg",
+        "attr": "(c) lonnyholmes, some rights reserved (CC BY-NC), uploaded by lonnyholmes"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384021664/medium.jpeg",
+        "attr": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39983151/medium.jpg",
+        "attr": "(c) Kayla Echols, some rights reserved (CC BY-NC), uploaded by Kayla Echols"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26434076/medium.jpeg",
+        "attr": "(c) Kuan-Chieh (Chuck) Hung, some rights reserved (CC BY-NC-SA), uploaded by Kuan-Chieh (Chuck) Hung"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452698453/medium.png",
+        "attr": "(c) Li Jianong, some rights reserved (CC BY-NC), uploaded by Li Jianong"
+      }
+    ]
+  },
+  {
+    "english_name": "Death Camas",
+    "navajo_name": "Yiíłtsínii tsoh",
+    "scientific_name": "Zigadenus paniculatus",
+    "aka": "Foothill deathcamas",
+    "plant_type": "Forb",
+    "habitat": "",
+    "growing_season": "Cool season",
+    "special_considerations": "Highly poisonous",
+    "description": "Grasslike plant that grows from a bulb, with clusters of small white flowers. Comes up early in spring when little else is green. Contains compounds toxic to all livestock — one of the important plants to learn to recognize.",
+    "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177380653/medium.jpeg",
+    "photo_attr": "(c) Robert Wilson, some rights reserved (CC BY-NC), uploaded by Robert Wilson",
+    "photo_license": "cc-by-nc",
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177380653/medium.jpeg",
+        "attr": "(c) Robert Wilson, some rights reserved (CC BY-NC), uploaded by Robert Wilson"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268353749/medium.jpeg",
+        "attr": "(c) Zach Hawn, some rights reserved (CC BY-NC-SA), uploaded by Zach Hawn"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109324267/medium.jpg",
+        "attr": "(c) Steve Matson, some rights reserved (CC BY), uploaded by Steve Matson"
+      },
+      {
+        "url": "https://static.inaturalist.org/photos/206469644/medium.jpg",
+        "attr": "(c) naturecandids, all rights reserved, uploaded by naturecandids"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502912996/medium.jpg",
+        "attr": "(c) dphoesli, some rights reserved (CC BY-NC), uploaded by dphoesli"
+      }
+    ]
+  }
+]
